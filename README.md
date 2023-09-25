@@ -6,12 +6,30 @@ Kelas  : B
 
 
 
+Flowchart: ![Screenshot 2023-09-25 230231](https://github.com/zkyatsl/Posttest_pertama/assets/98721112/e8c624f1-a292-4026-9ba6-ba7b52f21773)
 
 
-FLowchart : ![Screenshot 2023-09-25 230231](https://github.com/zkyatsl/Posttest_pertama/assets/98721112/61da0a12-6d46-4195-893a-42159fb6f59e)
 
 
-Output : ![image](https://github.com/zkyatsl/Posttest_pertama/assets/98721112/c520a2e1-9fd4-46c5-96e7-8393eb46fd4b)
+
+
+
+
+
+
+
+
+
+
+Output: ![output](https://github.com/zkyatsl/Posttest_pertama/assets/98721112/8e15257b-e6f6-492e-892f-621c480ece38)
+
+
+
+
+
+
+
+
 
 
 
